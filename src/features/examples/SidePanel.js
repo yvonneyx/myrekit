@@ -6,6 +6,9 @@ export default function SidePanel() {
     <div className="examples-side-panel">
       <ul>
         <li>
+          <Link to="/examples/login">Login</Link>
+        </li>
+        <li>
           <Link to="/examples">Welcome</Link>
         </li>
         <li>
