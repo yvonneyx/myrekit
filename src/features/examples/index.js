@@ -5,3 +5,4 @@ export { default as RedditListPage } from './RedditListPage';
 export { default as Layout } from './Layout';
 export { default as Login } from './Login';
 export { default as Forbidden403 } from './Forbidden403';
+export { default as SignInSideWithMaterialUi } from './SignInSideWithMaterialUi';
