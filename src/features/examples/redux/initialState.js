@@ -11,6 +11,12 @@ const initialState = {
   fetchRedditListPending: false,
   fetchRedditListError: null,
   loggedIn: false,
+  listItems: [],
+  keyword: '',
+  page: 1,
+  byId: "",
+  fetchListPending: false,
+  fetchListError: null,
 };
 
 export default initialState;

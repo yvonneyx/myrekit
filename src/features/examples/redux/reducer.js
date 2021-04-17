@@ -13,6 +13,7 @@ import { reducer as counterResetReducer } from './counterReset';
 import { reducer as fetchRedditListReducer } from './fetchRedditList';
 import { reducer as loginReducer } from './login';
 import { reducer as logoutReducer } from './logout';
+import { reducer as fetchListReducer } from './fetchList';
 
 const reducers = [
   counterPlusOneReducer,
@@ -21,6 +22,7 @@ const reducers = [
   fetchRedditListReducer,
   loginReducer,
   logoutReducer,
+  fetchListReducer,
 ];
 
 export default function reducer(state = initialState, action) {

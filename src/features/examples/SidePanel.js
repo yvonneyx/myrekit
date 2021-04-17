@@ -12,6 +12,12 @@ export default function SidePanel() {
           <Link to="/examples/sign_with_material_ui">Sign In Side</Link>
         </li>
         <li>
+          <Link to="/examples/chat">Chat</Link>
+        </li>
+        <li>
+          <Link to="/examples/listpage">List page</Link>
+        </li>
+        <li>
           <Link to="/examples">Welcome</Link>
         </li>
         <li>

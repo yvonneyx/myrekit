@@ -4,3 +4,4 @@ export { counterReset } from './counterReset';
 export { fetchRedditList, dismissFetchRedditListError } from './fetchRedditList';
 export { login } from './login';
 export { logout } from './logout';
+export { fetchList, dismissFetchListError } from './fetchList';
