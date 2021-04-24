@@ -10,3 +10,4 @@ export { default as DetailPage } from './DetailPage';
 export { default as ListPage } from './ListPage';
 export { default as Chat } from './Chat';
 export { default as WebSocketClient } from './WebSocketClient';
+export { default as ScrollToTop } from './ScrollToTop';
